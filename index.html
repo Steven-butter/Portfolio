@@ -1,15 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Z9LV9VMB9"></script>
-	<script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
- 	 	gtag('js', new Date());
+	 <!-- Google tag (gtag.js) -->
+	 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3Z9LV9VMB9"></script>
+	 <script>
+		   window.dataLayer = window.dataLayer || [];
+		   function gtag(){dataLayer.push(arguments);}
+		   gtag('js', new Date());
+ 
+		   gtag('config', 'G-3Z9LV9VMB9');
+	 </script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NN8C2DK5');</script>
+	<!-- End Google Tag Manager -->
+	
 
- 	 	gtag('config', 'G-3Z9LV9VMB9');
-	</script>
     <title>Smashy - By Steven</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -32,7 +41,10 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-	  
+	  <!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NN8C2DK5"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
@@ -55,46 +67,6 @@
 	      </div>
 	    </div>
 	  </nav>
-	  <section id="home-section" class="hero">
-		  <div class="home-slider  owl-carousel">
-	      <div class="slider-item ">
-	      	<div class="overlay"></div>
-	        <div class="container">
-	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/bg_1.png);">
-	          		<div class="overlay"></div>
-	          	</div>
-		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-		          	<div class="text">
-		          		<span class="subheading">Bonjour !</span>
-			            <h1 class="mb-4 mt-3">Je suis <span>Steven Guillaume</span></h1>
-			            <h2 class="mb-4">Un étudiant en BTS SIO</h2>
-			            <p><a target="_blank" href="embauche.html" class="btn btn-primary py-3 px-4">Embauchez moi !</a> <a href="#" class="btn btn-white btn-outline-white py-3 px-4">Mon travail</a></p>
-		            </div>
-		          </div>
-	        	</div>
-	        </div>
-	      </div>
-
-	      <div class="slider-item">
-	      	<div class="overlay"></div>
-	        <div class="container">
-	          <div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/bg_2.png);">
-	          		<div class="overlay"></div>
-	          	</div>
-		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-		          	<div class="text">
-		          		<span class="subheading">Bonjour !</span>
-			            <h1 class="mb-4 mt-3">Je suis <span>un étudiant</span> qui habite Lamastre</h1>
-			            <p><a target="_blank" href="/embauche.html" class="btn btn-primary py-3 px-4">Embauchez moi !</a> <a href="#" class="btn btn-white btn-outline-white py-3 px-4">Mon travail</a></p>
-		            </div>
-		          </div>
-	        	</div>
-	        </div>
-	      </div>
-	    </div>
-    </section>
 
     <section class="ftco-about img ftco-section ftco-no-pb" id="about-section">
     	<div class="container">
@@ -111,7 +83,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<h1 class="big">A propos</h1>
 		            <h2 class="mb-4">A propos</h2>
-		            <p>Pourquoi faire compliquer quand on peux faire simplement.</p>
+		            <p>Pourquoi faire simplement quand on peux faire compliqué.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
 		            	<li class="d-flex"><span>Nom:</span> <span>Steven Guillaume</span></li>
 		            	<li class="d-flex"><span>Naissance:</span> <span>24 Septembre 2006</span></li>
@@ -137,63 +109,83 @@
     </section>
 
     <section class="ftco-section ftco-no-pb" id="resume-section">
-    	<div class="container">
+    	<div class="container" id="liste">
     		<div class="row justify-content-center pb-5">
           <div class="col-md-10 heading-section text-center ftco-animate">
-          	<h1 class="big big-2">Resume</h1>
+          	<!-- <h1 class="big big-2">Resume</h1>
             <h2 class="mb-4">Resume</h2>
             <p>Une petite partie de moi.</p>
           </div>
         </div>
-    		<div class="row">
+    		 <div class="row">
     			<div class="col-md-6">
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2014-2015</span>
-    					<h2>Master Degree of Design</h2>
-    					<span class="position">Cambridge University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<span class="date">2018-2021</span>
+    					<h2>Collège du Vivarais</h2>
+    					<span class="position">07 270 Lamastre</span>
+    					<p class="mt-4">Un petit Collège dans la campagne</p>
     				</div>
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2014-2015</span>
-    					<h2>Bachelor's Degree of C.A</h2>
-    					<span class="position">Cambridge University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<span class="date">2021-2024</span>
+    					<h2>Lycée Marius Bouvier</h2>
+    					<span class="position">07 300 Tournon</span>
+    					<p class="mt-4">Un lycée dans une petite ville d'ardéche</p>
     				</div>
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2014-2015</span>
-    					<h2>Diploma in Computer</h2>
-    					<span class="position">Cambridge University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<span class="date">2024-2027</span>
+    					<h2>Pôle Sup Saint Denis</h2>
+    					<span class="position">07 100 Annonay</span>
+    					<p class="mt-4">Un grand établissement parmis les meilleurs de l'ardèche</p>
     				</div>
     			</div>
 
     			<div class="col-md-6">
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2014-2015</span>
-    					<h2>Art &amp; Creative Director</h2>
-    					<span class="position">Cambridge University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<span class="date">2021</span>
+    					<h2>Brevet des collèges</h2>
+    					<span class="position">Collège du Vivarais</span>
+    					<p class="mt-4"> </p>
     				</div>
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2014-2015</span>
-    					<h2>Wordpress Developer</h2>
-    					<span class="position">Cambridge University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<span class="date">2024</span>
+    					<h2>Bac Professionnel SN RISC</h2>
+    					<span class="position">Lycée Marius Bouvier</span>
+    					<p class="mt-4"> </p>
     				</div>
     				<div class="resume-wrap ftco-animate">
-    					<span class="date">2017-2018</span>
-    					<h2>UI/UX Designer</h2>
-    					<span class="position">Cambridge University</span>
-    					<p class="mt-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+    					<span class="date">2027</span>
+    					<h2>BTS et Licence Informatique</h2>
+    					<span class="position">Pôle Sup Saint Denis</span>
+    					<p class="mt-4"> </p>
     				</div>
     			</div>
-    		</div>
+    		</div>-->
     		<div class="row justify-content-center mt-5">
     			<div class="col-md-6 text-center ftco-animate">
-    				<p><a target=blank_ href="/DL/CV.pdf"  download="CV" class="btn btn-primary py-3 px-3">Télécharger mon CV</a></p>
+    				<!--<p><a target=blank_ href="/DL/CV.pdf"  download="CV" class="btn btn-primary py-3 px-3">Télécharger mon CV</a></p>-->
     			</div>
     		</div>
     	</div>
+
+		<div class="container">
+			<div class="row justify-content-center pb-5">
+				<div class="col-md-10 heading-section text-center ftco-animate">
+					<h1 class="big big-2">Resume</h1>
+				  <h2 class="mb-4">Resume</h2>
+				  <p>Une petite partie de moi.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6" id="listedupanier"></div>
+				<div class="col-md-6" id="listedupanier2"></div>
+				</div>
+				<div class="row justify-content-center mt-5">
+					<div class="col-md-6 text-center ftco-animate">
+						<p><a target=blank_ href="/DL/CV.pdf"  download="CV" class="btn btn-primary py-3 px-3">Télécharger mon CV</a></p>
+					</div>
+				</div>
+		</div>
+
     </section>
 
     <section class="ftco-section" id="services-section">
@@ -444,7 +436,7 @@
               	<div class="d-flex align-items-center mb-3 meta">
 	                <p class="mb-0">
 	                	<span class="mr-2">June 21, 2019</span>
-	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="mr-2">Steven</a>
 	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
 	                </p>
                 </div>
@@ -461,7 +453,7 @@
               	<div class="d-flex align-items-center mb-3 meta">
 	                <p class="mb-0">
 	                	<span class="mr-2">June 21, 2019</span>
-	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="mr-2">Steven</a>
 	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
 	                </p>
                 </div>
@@ -478,7 +470,7 @@
               	<div class="d-flex align-items-center mb-3 meta">
 	                <p class="mb-0">
 	                	<span class="mr-2">June 21, 2019</span>
-	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="mr-2">Steven</a>
 	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
 	                </p>
                 </div>
@@ -535,7 +527,7 @@
 				<div class="row justify-content-center">
 					<div class="col-md-7 ftco-animate text-center">
 						<h2>Je suis <span>toujours</span> présent</h2>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+						<p></p>
 						<div>
 							<p><a target="_blank" href="/embauche.html" class="btn btn-primary py-3 px-4">Embauchez moi !</a></p>
 						</div>
@@ -550,7 +542,7 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
             <h1 class="big big-2">Contact</h1>
             <h2 class="mb-4">Me contacter</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <p></p>
           </div>
         </div>
 
@@ -592,33 +584,6 @@
 	          </div>
           </div>
         </div>
-
-        <div class="row no-gutters block-9">
-          <div class="col-md-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-4 p-md-5 contact-form">
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Votre nom">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Votre Email">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
-              </div>
-              <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-              </div>
-              <div class="form-group">
-                <input type="submit" value="Envoyer le message" class="btn btn-primary py-3 px-5">
-              </div>
-            </form>
-          
-          </div>
-
-          <div class="col-md-6 d-flex">
-          	<div class="img" style="background-image: url(images/about.jpg);"></div>
-          </div>
-        </div>
       </div>
     </section>
 		
@@ -629,7 +594,7 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">A propos</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p>Je sais pas quoi mettre désolé</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -704,6 +669,8 @@
   <script src="js/scrollax.min.js"></script>
   
   <script src="js/main.js"></script>
+
+  <script src="js/boucle.js"></script>
     
   </body>
 </html>

@@ -1,0 +1,1 @@
+Occupant le poste d'assistant informatique, j'ai intégrer Pleyce en 2024 lors de ma 1ére année de BTS SIO

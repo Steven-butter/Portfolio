@@ -8,7 +8,7 @@ const produits = [
 const produits2 = [
     { date: "2021", titre: "Brevet des collèges", prix: "Collège du Vivarais", description: "" },
     { date: "2024", titre: "Bac Professionnel SN RISC", prix: "Lycée Marius Bouvier", description: "" },
-    { date: "2027", titre: "BTS et Licence Informatique", prix: "Pôle Sup Saint Denis", description: "" },
+    { date: "2026", titre: "BTS SIO", prix: "Pôle Sup Saint Denis", description: "" },
   ];
 
 // Sélectionne l'élément avec l'ID "listedupanier" pour insérer les produits

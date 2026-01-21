@@ -2,7 +2,7 @@
 const produits = [
   { date: "2018-2021", titre: "Collège du Vivarais", prix: "07 270 Lamastre", description: "Un petit collège dans la campagne" },
   { date: "2021-2024", titre: "Lycée Marius Bouvier", prix: "07 300 Tournon", description: "Un lycée dans une petite ville d'Ardéche" },
-  { date: "2024-2027", titre: "Pôle Sup Saint Denis", prix: "07 100 Annonay", description: "Un grand établissement parmis les meilleurs de l'Ardèche" },
+  { date: "2024-2026", titre: "Pôle Sup Saint Denis", prix: "07 100 Annonay", description: "Un grand établissement parmis les meilleurs de l'Ardèche" },
 ];
 
 const produits2 = [

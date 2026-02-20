@@ -10,26 +10,24 @@ Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors d
 - Bilan perso
 
 <!--  ------------------------------------------- -->
-<!--        PPE - Serveur AD     A FAIRE    -->
+<!--        PPE - Serveur AD         -->
 <!-- -------------------------------------------- -->
 
 <b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et gérer un serveur AD sous Windows Server. <br> <br>
 
               <b>Objectif :</b> Installer une machine Windows Server et un service active-directory qui permet la gestion d'utilisateur, de groupes, et de GPO.<br> <br>
 
-              <b>Travail réalisé :</b> Un serveur bi-cpu avec 256Gb de Ram permettant de vitualiser des machines et services. Sur celui-ci il y a : une VM (AD/Domaine, DHCP, DNS, Fichier/DFS et servant a des outils internes) une VM pour un controler wifi, une VM de base de donné, une VM pour la sauvgarde, une VM pour un serveur WEB.. Le tout fonctionnait sous Windows Serveur 2022 hôtes comme Guest sauf le controler wifi sur base debian. <br> <br>
+              <b>Travail réalisé :</b> Installer une machine virtuel sous Windows server 2022 et le service AD DS. Sur celle-ci, une fois le service installé, configurer des utilisateurs, groupe de ressources (gestion AGDLP) GPO (Group policy object)<br> <br>
 
-              <b>Technologies utilisées :</b> Windows Serveur 2022, Hyper-V, Debian, Apache, SQL Server, Windows AD, Veeam<br> <br>
+              <b>Technologies utilisées :</b> Windows Serveur 2022, Windows AD DS<br> <br>
 
               <b>Compétances mobilisées :</b> 
                 <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C3:</b> Développer la présence en ligne de l'oganisation
-                <br><b>C4:</b> Travailler en mode projet 
                 <br><b>C5:</b> Mettre a dispostion des utilisateurs un service informatique<br> <br>
 
-              <b>Resultats obtenus :</b>  3 mois plus tard nous avons obtenu un livrable prêt a l'utilisation pour les clients <br> <br>
+              <b>Resultats obtenus :</b>  Un serveur AD permetant de gérer des ressources et des utilisateurs<br> <br>
 
-              <b>Difficultés rencontrées :</b> Le timing était complexe du a l'alternance (j'ai eu 1 moi et demi au lieu de mois)
+              <b>Difficultés rencontrées : La gestion AGDLP peux s'avérer complexe a comprendre au début</b> 
 
 
 <!--  ------------------------------------------- -->

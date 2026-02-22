@@ -1,13 +1,13 @@
-Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors de ma 1ére année de BTS SIO
+Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors de ma 1ère année de BTS SIO
 
 
 - Contexte
 - Objectif
 - Travail réalisé
-- Outils et techno
-- Compétence mobilisé (Gestion de parc, Reponse au incidents, dev  de la présence en ligne, Gestion de projet, Service au utilisateurs, organiser son dev personnel)
-- Resultats obtenus
-- Bilan perso
+- Outils et technologie
+- Compétence mobilisée (Gestion de parc, Réponse aux incidents, développement de la présence en ligne, Gestion de projet, Service aux utilisateurs, organiser son développement personnel)
+- Résultats obtenus
+- Bilan personnel
 
 <!--  ------------------------------------------- -->
 <!--        PPE - Serveur AD         -->
@@ -15,19 +15,19 @@ Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors d
 
 <b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et gérer un serveur AD sous Windows Server. <br> <br>
 
-              <b>Objectif :</b> Installer une machine Windows Server et un service active-directory qui permet la gestion d'utilisateur, de groupes, et de GPO.<br> <br>
+              <b>Objectif :</b> Installer une machine Windows Server et un service Active Directory qui permet la gestion d'utilisateurs, de groupes et de GPO.<br> <br>
 
-              <b>Travail réalisé :</b> Installer une machine virtuel sous Windows server 2022 et le service AD DS. Sur celle-ci, une fois le service installé, configurer des utilisateurs, groupe de ressources (gestion AGDLP) GPO (Group policy object)<br> <br>
+              <b>Travail réalisé :</b> Installer une machine virtuelle sous Windows Server 2022 et le service AD DS. Sur celle-ci, une fois le service installé, configurer des utilisateurs, groupe de ressources (gestion AGDLP) et GPO (Group Policy Object).<br> <br>
 
-              <b>Technologies utilisées :</b> Windows Serveur 2022, Windows AD DS<br> <br>
+              <b>Technologies utilisées :</b> Windows Server 2022, Windows AD DS<br> <br>
 
-              <b>Compétances mobilisées :</b> 
+              <b>Compétences mobilisées :</b> 
                 <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C5:</b> Mettre a dispostion des utilisateurs un service informatique<br> <br>
+                <br><b>C5:</b> Mettre à disposition des utilisateurs un service informatique<br> <br>
 
-              <b>Resultats obtenus :</b>  Un serveur AD permetant de gérer des ressources et des utilisateurs<br> <br>
+              <b>Résultats obtenus :</b>  Un serveur AD permettant de gérer des ressources et des utilisateurs<br> <br>
 
-              <b>Difficultés rencontrées : La gestion AGDLP peux s'avérer complexe a comprendre au début</b> 
+              <b>Difficultés rencontrées :</b> La gestion AGDLP peut s'avérer complexe à comprendre au début 
 
 
 <!--  ------------------------------------------- -->
@@ -36,18 +36,18 @@ Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors d
 
 <b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
 
-              <b>Objectif :</b> Installer une machine Linux et un apache2 ou nginx qui permet d'hébérger une/des page(s) web sur une machine.<br> <br>
+              <b>Objectif :</b> Installer une machine Linux et un Apache2 ou Nginx qui permet d'héberger une ou plusieurs page(s) web sur une machine.<br> <br>
 
-              <b>Travail réalisé :</b> Installer une machine virtuel sous ubuntu serveur 24.04 LTS (long-term support, 5 ans de majs gratuites jusqu'a 15 ans avec l'abonnement) et apache2. Sur celle-ci, une fois le service installé les certificats ssl afin que les pages web s'affiches en https.<br> <br>
+              <b>Travail réalisé :</b> Installer une machine virtuelle sous Ubuntu Server 24.04 LTS (long-term support, 5 ans de mises à jour gratuites jusqu'à 15 ans avec l'abonnement) et Apache2. Sur celle-ci, une fois le service installé, configurer les certificats SSL afin que les pages web s'affichent en HTTPS.<br> <br>
 
-              <b>Technologies utilisées :</b> Linux server 24.04 LTS, Apache et OpenSSL<br> <br>
+              <b>Technologies utilisées :</b> Linux Server 24.04 LTS, Apache et OpenSSL<br> <br>
 
-              <b>Compétances mobilisées :</b> 
+              <b>Compétences mobilisées :</b> 
                 <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C3:</b> Développer la présence en ligne de l'oganisation
-                <br><b>C6:</b> Organiser son dévloppement professionnel<br> <br>
+                <br><b>C3:</b> Développer la présence en ligne de l'organisation
+                <br><b>C6:</b> Organiser son développement professionnel<br> <br>
 
-              <b>Resultats obtenus :</b> Un serveur Web Linux/apache hébérgeant  <br> <br>
+              <b>Résultats obtenus :</b> Un serveur Web Linux/Apache hébergeant du contenu<br> <br>
 
               <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours
 
@@ -69,66 +69,66 @@ Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors d
                 <br><b>C2:</b> Répondre aux incidents et aux demandes d'assistance
                 <br><b>C3:</b> Développer la présence en ligne de l'organisation
                 <br><b>C4:</b> Travailler en mode projet
-                <br><b>C5:</b> Mettre a disposition des utilisateurs un service informatique
+                <br><b>C5:</b> Mettre à disposition des utilisateurs un service informatique
                 <br><b>C6:</b> Organiser son développement professionnel<br> <br>
 
-              <b>Resultats obtenus :</b> Une infrastructure fonctionnelle reproduisant les besoins d'une entreprise  <br> <br>
+              <b>Résultats obtenus :</b> Une infrastructure fonctionnelle reproduisant les besoins d'une entreprise<br> <br>
 
               <b>Difficultés rencontrées :</b> La gestion des ressources serveur, utilisation SNMP
 
 <!--  ------------------------------------------- -->
-<!--        Pro - Changement seveur         -->
+<!--        Pro - Changement serveur         -->
 <!-- -------------------------------------------- -->
-Courant 2024, lors de mon entré chez Pleyce. L'entreprise reposait sont activité sur un serveur ancien non mis a jour ce qui posait des problèmes de sécurité en plus de problèmes de fiablité.
+Courant 2024, lors de mon entrée chez Pleyce. L'entreprise reposait son activité sur un serveur ancien non mis à jour, ce qui posait des problèmes de sécurité en plus de problèmes de fiabilité.
 
-Pour remédier a cela il fallait donc opter pour une solution plus moderne et également plus puissante pour suivre la forte évolution de personnel (80 en sept 2024 et actuellement 120 en Janv 2026). Nous avions besoin d'une machine capable de supporter une forte charge de travail et que celui-ci puisse être conservé dans le temps.
+Pour remédier à cela, il fallait donc opter pour une solution plus moderne et également plus puissante pour suivre la forte évolution du personnel (80 en septembre 2024 et actuellement 120 en janvier 2026). Nous avions besoin d'une machine capable de supporter une forte charge de travail et qui puisse être conservée dans le temps.
 
-Un serveur bi-cpu avec 256Gb de Ram permettant de vitualiser des machines et services. Sur celui-ci il y a : une VM (AD/Domaine, DHCP, DNS, Fichier/DFS et servant a des outils internes) une VM pour un controler wifi, une VM de base de donné, une VM pour la sauvgarde, une VM pour un serveur WEB.. Le tout fonctionnait sous Windows Serveur 2022 hôtes comme Guest sauf le controler wifi sur base debian.
+Un serveur bi-CPU avec 256 Go de RAM permettant de virtualiser des machines et services. Sur celui-ci, il y a : une VM (AD/Domaine, DHCP, DNS, Fichier/DFS et servant à des outils internes), une VM pour un contrôleur Wi-Fi, une VM de base de données, une VM pour la sauvegarde, une VM pour un serveur WEB. Le tout fonctionnait sous Windows Server 2022 en hôte comme invité, sauf le contrôleur Wi-Fi sur base Debian.
 
-Lors de ce projet de nombreuses compétances on été mobilité tels que le développement de la présence en ligne avec le serveur WEB la gestion de projet sur la globalité du projet et le service au utilisateurs étant donner que les services présents sur le serveur était a destination des utilisateurs. 
+Lors de ce projet, de nombreuses compétences ont été mobilisées, telles que le développement de la présence en ligne avec le serveur WEB, la gestion de projet sur la globalité du projet et le service aux utilisateurs, étant donné que les services présents sur le serveur étaient à destination des utilisateurs. 
 
-3 mois plus tard nous avons obtenu un livrable prêt a l'utilisation pour les clients
+3 mois plus tard, nous avons obtenu un livrable prêt à l'utilisation pour les clients
 
 
 <!--  ------------------------------------------- -->
-<!--        Pro - Démangement FMD France          -->     A FAIRE
+<!--        Pro - Déménagement FMD France          -->     À FAIRE
 <!-- -------------------------------------------- -->
 
 <b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
 
-              <b>Objectif :</b> Installer une machine Linux et un apache2 ou nginx qui permet d'hébérger une/des page(s) web sur une machine.<br> <br>
+              <b>Objectif :</b> Installer une machine Linux et un Apache2 ou Nginx qui permet d'héberger une ou plusieurs page(s) web sur une machine.<br> <br>
 
-              <b>Travail réalisé :</b> Installer une machine virtuel sous ubuntu serveur 24.04 LTS (long-term support, 5 ans de majs gratuites jusqu'a 15 ans avec l'abonnement) et apache2. Sur celle-ci, une fois le service installé les certificats ssl afin que les pages web s'affiches en https.<br> <br>
+              <b>Travail réalisé :</b> Installer une machine virtuelle sous Ubuntu Server 24.04 LTS (long-term support, 5 ans de mises à jour gratuites jusqu'à 15 ans avec l'abonnement) et Apache2. Sur celle-ci, une fois le service installé, configurer les certificats SSL afin que les pages web s'affichent en HTTPS.<br> <br>
 
-              <b>Technologies utilisées :</b> Linux server 24.04 LTS, Apache et OpenSSL<br> <br>
+              <b>Technologies utilisées :</b> Linux Server 24.04 LTS, Apache et OpenSSL<br> <br>
 
-              <b>Compétances mobilisées :</b> 
+              <b>Compétences mobilisées :</b> 
                 <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C3:</b> Développer la présence en ligne de l'oganisation
-                <br><b>C6:</b> Organiser son dévloppement professionnel<br> <br>
+                <br><b>C3:</b> Développer la présence en ligne de l'organisation
+                <br><b>C6:</b> Organiser son développement professionnel<br> <br>
 
-              <b>Resultats obtenus :</b> Un serveur Web Linux/apache hébérgeant  <br> <br>
+              <b>Résultats obtenus :</b> Un serveur Web Linux/Apache hébergeant du contenu<br> <br>
 
               <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours
 
 
 <!--  ------------------------------------------- -->
-<!--        Pro - Serveur de sauvegarde           -->           A FAIRE
+<!--        Pro - Serveur de sauvegarde           -->           À FAIRE
 <!-- -------------------------------------------- -->
 
 <b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
 
-              <b>Objectif :</b> Installer une machine Linux et un apache2 ou nginx qui permet d'hébérger une/des page(s) web sur une machine.<br> <br>
+              <b>Objectif :</b> Installer une machine Linux et un Apache2 ou Nginx qui permet d'héberger une ou plusieurs page(s) web sur une machine.<br> <br>
 
-              <b>Travail réalisé :</b> Installer une machine virtuel sous ubuntu serveur 24.04 LTS (long-term support, 5 ans de majs gratuites jusqu'a 15 ans avec l'abonnement) et apache2. Sur celle-ci, une fois le service installé les certificats ssl afin que les pages web s'affiches en https.<br> <br>
+              <b>Travail réalisé :</b> Installer une machine virtuelle sous Ubuntu Server 24.04 LTS (long-term support, 5 ans de mises à jour gratuites jusqu'à 15 ans avec l'abonnement) et Apache2. Sur celle-ci, une fois le service installé, configurer les certificats SSL afin que les pages web s'affichent en HTTPS.<br> <br>
 
-              <b>Technologies utilisées :</b> Linux server 24.04 LTS, Apache et OpenSSL<br> <br>
+              <b>Technologies utilisées :</b> Linux Server 24.04 LTS, Apache et OpenSSL<br> <br>
 
-              <b>Compétances mobilisées :</b> 
+              <b>Compétences mobilisées :</b> 
                 <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C3:</b> Développer la présence en ligne de l'oganisation
-                <br><b>C6:</b> Organiser son dévloppement professionnel<br> <br>
+                <br><b>C3:</b> Développer la présence en ligne de l'organisation
+                <br><b>C6:</b> Organiser son développement professionnel<br> <br>
 
-              <b>Resultats obtenus :</b> Un serveur Web Linux/apache hébérgeant  <br> <br>
+              <b>Résultats obtenus :</b> Un serveur Web Linux/Apache hébergeant du contenu<br> <br>
 
               <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours

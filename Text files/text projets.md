@@ -49,8 +49,32 @@ Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors d
 
               <b>Resultats obtenus :</b> Un serveur Web Linux/apache hébérgeant  <br> <br>
 
-              <b>Difficultés rencontrées :</b> les repos apt ne fonctionnent pas toujours
+              <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours
 
+
+<!--  ------------------------------------------- -->
+<!--        PPE - Infrastructure réseau           -->           A FAIRE
+<!-- -------------------------------------------- -->
+
+<b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à préparer et mettre en fonctionnement une infrastructure réseau complète qui serait à destination d'un usage professionnel. <br> <br>
+
+              <b>Objectif :</b> Installer un switch, un routeur accompagné d'un serveur, de machines virtuelles avec divers services ainsi que de postes clients.<br> <br>
+
+              <b>Travail réalisé :</b> Pour la partie réseau pure : installation et configuration d'un switch et routeur Cisco avec VLAN et ACL ainsi qu'un serveur DHCP. Partie système : un serveur Proxmox avec une VM Windows Serveur (AD/GPO, fichiers, DHCP et DNS), une VM Zabbix pour la supervision des équipements, 2 VM Debian (serveur WEB) et 1 VM TrueNAS (stockage de fichiers, sauvegarde serveur automatisée). Également des postes clients Windows 11 liés au domaine AD furent intégrés. <br> <br>
+
+              <b>Technologies utilisées :</b> Cisco IOS, Proxmox, Windows Server, Debian, Ubuntu Server, Zabbix, Samba, Rsync<br> <br>
+
+              <b>Compétences mobilisées :</b> 
+                <br><b>C1:</b> Gérer le patrimoine informatique 
+                <br><b>C2:</b> Répondre aux incidents et aux demandes d'assistance
+                <br><b>C3:</b> Développer la présence en ligne de l'organisation
+                <br><b>C4:</b> Travailler en mode projet
+                <br><b>C5:</b> Mettre a disposition des utilisateurs un service informatique
+                <br><b>C6:</b> Organiser son développement professionnel<br> <br>
+
+              <b>Resultats obtenus :</b> Une infrastructure fonctionnelle reproduisant les besoins d'une entreprise  <br> <br>
+
+              <b>Difficultés rencontrées :</b> La gestion des ressources serveur, utilisation SNMP
 
 <!--  ------------------------------------------- -->
 <!--        Pro - Changement seveur         -->
@@ -65,3 +89,46 @@ Lors de ce projet de nombreuses compétances on été mobilité tels que le dév
 
 3 mois plus tard nous avons obtenu un livrable prêt a l'utilisation pour les clients
 
+
+<!--  ------------------------------------------- -->
+<!--        Pro - Démangement FMD France          -->     A FAIRE
+<!-- -------------------------------------------- -->
+
+<b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
+
+              <b>Objectif :</b> Installer une machine Linux et un apache2 ou nginx qui permet d'hébérger une/des page(s) web sur une machine.<br> <br>
+
+              <b>Travail réalisé :</b> Installer une machine virtuel sous ubuntu serveur 24.04 LTS (long-term support, 5 ans de majs gratuites jusqu'a 15 ans avec l'abonnement) et apache2. Sur celle-ci, une fois le service installé les certificats ssl afin que les pages web s'affiches en https.<br> <br>
+
+              <b>Technologies utilisées :</b> Linux server 24.04 LTS, Apache et OpenSSL<br> <br>
+
+              <b>Compétances mobilisées :</b> 
+                <br><b>C1:</b> Gérer le patrimoine informatique 
+                <br><b>C3:</b> Développer la présence en ligne de l'oganisation
+                <br><b>C6:</b> Organiser son dévloppement professionnel<br> <br>
+
+              <b>Resultats obtenus :</b> Un serveur Web Linux/apache hébérgeant  <br> <br>
+
+              <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours
+
+
+<!--  ------------------------------------------- -->
+<!--        Pro - Serveur de sauvegarde           -->           A FAIRE
+<!-- -------------------------------------------- -->
+
+<b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
+
+              <b>Objectif :</b> Installer une machine Linux et un apache2 ou nginx qui permet d'hébérger une/des page(s) web sur une machine.<br> <br>
+
+              <b>Travail réalisé :</b> Installer une machine virtuel sous ubuntu serveur 24.04 LTS (long-term support, 5 ans de majs gratuites jusqu'a 15 ans avec l'abonnement) et apache2. Sur celle-ci, une fois le service installé les certificats ssl afin que les pages web s'affiches en https.<br> <br>
+
+              <b>Technologies utilisées :</b> Linux server 24.04 LTS, Apache et OpenSSL<br> <br>
+
+              <b>Compétances mobilisées :</b> 
+                <br><b>C1:</b> Gérer le patrimoine informatique 
+                <br><b>C3:</b> Développer la présence en ligne de l'oganisation
+                <br><b>C6:</b> Organiser son dévloppement professionnel<br> <br>
+
+              <b>Resultats obtenus :</b> Un serveur Web Linux/apache hébérgeant  <br> <br>
+
+              <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours

@@ -53,7 +53,7 @@ Occupant le poste d'assistant informatique, j'ai intégré Pleyce en 2024 lors d
 
 
 <!--  ------------------------------------------- -->
-<!--        PPE - Infrastructure réseau           -->           A FAIRE
+<!--        PPE - Infrastructure réseau           -->          
 <!-- -------------------------------------------- -->
 
 <b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à préparer et mettre en fonctionnement une infrastructure réseau complète qui serait à destination d'un usage professionnel. <br> <br>
@@ -94,22 +94,23 @@ Lors de ce projet, de nombreuses compétences ont été mobilisées, telles que 
 <!--        Pro - Déménagement FMD France          -->     À FAIRE
 <!-- -------------------------------------------- -->
 
-<b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
+<b>Contexte :</b> Début 2026, pendant la seconde année de mon alternance, j'ai eu à gérer le déménagement de FMD dans de nouveaux locaux (le tout en 1 semaine)<br> <br>
 
-              <b>Objectif :</b> Installer une machine Linux et un Apache2 ou Nginx qui permet d'héberger une ou plusieurs page(s) web sur une machine.<br> <br>
+              <b>Objectif :</b> Mettre en place un réseau informatique complet de la partie système avec les postes clients.<br> <br>
 
-              <b>Travail réalisé :</b> Installer une machine virtuelle sous Ubuntu Server 24.04 LTS (long-term support, 5 ans de mises à jour gratuites jusqu'à 15 ans avec l'abonnement) et Apache2. Sur celle-ci, une fois le service installé, configurer les certificats SSL afin que les pages web s'affichent en HTTPS.<br> <br>
+              <b>Travail réalisé :</b> J'ai installé un switch Cisco avec une box 5G (temporaire en attendant la fibre) ainsi que des bornes wifi Unifi avec leur contrôleur. Un PC a également été reconverti en serveur pour l'ERP existant en solution temporaire avant une bascule complète vers une solution SAS. Des postes clients ainsi que des tablettes managées ont été fournis.<br> <br>
 
-              <b>Technologies utilisées :</b> Linux Server 24.04 LTS, Apache et OpenSSL<br> <br>
+              <b>Technologies utilisées :</b> Windows, Unifi OS et Cisco IOS<br> <br>
 
               <b>Compétences mobilisées :</b> 
-                <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C3:</b> Développer la présence en ligne de l'organisation
+                <br><b>C1:</b> Gérer le patrimoine informatique
+                <br><b>C2:</b> Répondre aux incidents et aux demandes d'assistance<br> <br>
+                <br><b>C5:</b> Mettre à disposition des utilisateurs un service informatique
                 <br><b>C6:</b> Organiser son développement professionnel<br> <br>
 
-              <b>Résultats obtenus :</b> Un serveur Web Linux/Apache hébergeant du contenu<br> <br>
+              <b>Résultats obtenus :</b> Un réseau informatique fonctionnel fournissant un environnement de travail complet et compatible avec les attentes d'une PME.<br> <br>
 
-              <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours
+              <b>Difficultés rencontrées :</b> De nombreux imprévus sur le terrain tels que des câbles non tirés ou encore des problèmes d'activation internet.
 
 
 <!--  ------------------------------------------- -->

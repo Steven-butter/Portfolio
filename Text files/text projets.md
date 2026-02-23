@@ -91,7 +91,7 @@ Lors de ce projet, de nombreuses compétences ont été mobilisées, telles que 
 
 
 <!--  ------------------------------------------- -->
-<!--        Pro - Déménagement FMD France          -->     À FAIRE
+<!--        Pro - Déménagement FMD France          -->
 <!-- -------------------------------------------- -->
 
 <b>Contexte :</b> Début 2026, pendant la seconde année de mon alternance, j'ai eu à gérer le déménagement de FMD dans de nouveaux locaux (le tout en 1 semaine)<br> <br>

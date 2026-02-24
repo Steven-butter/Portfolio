@@ -114,22 +114,21 @@ Lors de ce projet, de nombreuses compétences ont été mobilisées, telles que 
 
 
 <!--  ------------------------------------------- -->
-<!--        Pro - Serveur de sauvegarde           -->           À FAIRE
+<!--        Pro - Serveur de sauvegarde           -->
 <!-- -------------------------------------------- -->
 
-<b>Contexte :</b> Durant la seconde année de ma formation, nous avons eu à installer et configurer un serveur Web sous Linux. <br> <br>
+<b>Contexte :</b> Début février 2026, pendant la seconde année de mon alternance, j'ai eu à gérer le déploiement d'un serveur de backup afin d'externaliser nos sauvegardes sur un autre site de l'entreprise et de faire de l'archivage de données.<br> <br>
 
-              <b>Objectif :</b> Installer une machine Linux et un Apache2 ou Nginx qui permet d'héberger une ou plusieurs page(s) web sur une machine.<br> <br>
+              <b>Objectif :</b> Déployer et mettre en fonctionnement un serveur qui sera dédié au stockage de données.<br> <br>
 
-              <b>Travail réalisé :</b> Installer une machine virtuelle sous Ubuntu Server 24.04 LTS (long-term support, 5 ans de mises à jour gratuites jusqu'à 15 ans avec l'abonnement) et Apache2. Sur celle-ci, une fois le service installé, configurer les certificats SSL afin que les pages web s'affichent en HTTPS.<br> <br>
+              <b>Travail réalisé :</b> J'ai acheté un serveur d'occasion (Dell PowerEdge R720xd 12 baies bi CPU avec 128 Go de RAM) Celui-ci permettra de traiter un fort volume de données rapidement grâce à la grande quantité de RAM. TrueNAS a été mon choix concernant l'OS avec l'utilisation de la carte RAID intégrée au serveur (me donnant la possibilité de faire un RAID système et de faciliter la gestion étant moins sensible aux pannes). J'ai également automatisé la récupération de l'archivage des données grâce à des tâches RSYNC notamment.<br> <br>
 
-              <b>Technologies utilisées :</b> Linux Server 24.04 LTS, Apache et OpenSSL<br> <br>
+              <b>Technologies utilisées :</b> TrueNAS, PERC H710 (carte RAID)<br> <br>
 
               <b>Compétences mobilisées :</b> 
-                <br><b>C1:</b> Gérer le patrimoine informatique 
-                <br><b>C3:</b> Développer la présence en ligne de l'organisation
-                <br><b>C6:</b> Organiser son développement professionnel<br> <br>
+                <br><b>C1:</b> Gérer le patrimoine informatique
+                <br><b>C5:</b> Mettre à disposition des utilisateurs un service informatique
 
-              <b>Résultats obtenus :</b> Un serveur Web Linux/Apache hébergeant du contenu<br> <br>
+              <b>Résultats obtenus :</b> Un serveur de sauvegarde permettant de garder en sécurité les données de l'entreprise.<br> <br>
 
-              <b>Difficultés rencontrées :</b> Les repos apt ne fonctionnent pas toujours
+              <b>Difficultés rencontrées :</b> La gestion RAID et l'installation de carte additionnelle (baie arrière) peuvent s'avérer compliquées.
